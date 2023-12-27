@@ -2,8 +2,8 @@
 <h3 align="center">Working Hard Happily</h3>
 <h4 align="center">I'm a 1st year student in Bachelor of Computer Science with a focus on Data Engineering</h4>
 
-📫 Reach me by *yuylam113@gmail.com*
-📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)
+📫 Reach me by *yuylam113@gmail.com*  
+📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)  
 
 🌱 I’m currently exploring
 <p align="center"> 
