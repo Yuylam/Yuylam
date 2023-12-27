@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
 <h3 align="center">Working Hard Happily</h3>
-<h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
+<h4 align="center">I'm a 1st year student in Bachelor of Computer Science with a focus on Data Engineering</h4>
 
-- 📫 Reach me by *yuylam113@gmail.com*
-- 📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)
-- 🌱 I’m currently exploring
+📫 Reach me by *yuylam113@gmail.com*
+📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)
+
+🌱 I’m currently exploring
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -24,21 +25,3 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuylam&show_icons=true&locale=en&layout=compact" alt="yuylam" /></p>
-
-
-<!--
-### Hi there 👋
-
-**Yuylam/Yuylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
