@@ -2,9 +2,9 @@
 <h3 align="center">Working Hard Happily</h3>
 <h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
 
-- 📫 How to reach me **yuylam113@gmail.com**
+- 📫 Reach me by *yuylam113@gmail.com*
 - 📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)
-- 🌱 I’m currently Exploring
+- 🌱 I’m currently exploring
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
