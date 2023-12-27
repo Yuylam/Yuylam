@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
-<h3 align="center">Working Hard Happily</h3>
-<h4 align="center">I'm a 1st year student in Bachelor of Computer Science with a focus on Data Engineering</h4>
+<h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
 
-📫 Reach me by *yuylam113@gmail.com*  
 📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)  
-
 🌱 I’m currently exploring
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -24,4 +21,22 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuylam&show_icons=true&locale=en&layout=compact" alt="yuylam" /></p>
+### 🚀 Projects
+#### [Hostel Exchange Website](https://github.com/Yuylam/dream-hostel)
+- **Description:** A website to help these students to match with others to get their desired college. Example: A to B, B to C, C to A
+- **Tools and Languages:** XAMPP, PHPMyAdmin, VSCode, HTML, CSS, PHP, SQL
+- **Role:** Contributed in the backend part of the project
+- **Challenges:** Need to learn SQL and PHP within a short period of time
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuylam&show_icons=true&count_private=true&theme=default)
+
+### 💼 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuylam&layout=compact&theme=default)
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuylam/)](https://www.linkedin.com/in/yuylam/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuylam113@gmail.com)](mailto:yuylam113@gmail.com)
