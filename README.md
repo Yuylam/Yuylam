@@ -21,13 +21,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### 🚀 Projects
-#### [Hostel Exchange Website](https://github.com/Yuylam/dream-hostel)
-- **Description:** A website to help these students to match with others to get their desired college. Example: A to B, B to C, C to A
-- **Tools and Languages:** XAMPP, PHPMyAdmin, VSCode, HTML, CSS, PHP, SQL
-- **Role:** Contributed in the backend part of the project
-- **Challenges:** Need to learn SQL and PHP within a short period of time
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuylam&show_icons=true&count_private=true&theme=default)
