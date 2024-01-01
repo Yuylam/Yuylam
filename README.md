@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
 <h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
 
-📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/b8f8b00dc8ccd0e5ac954adebaf60d9939546471/Resume.pdf)  
+📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/0b1e76acf3be714b506efca2301c713d1bad4ba4/Resume.pdf)  
 🌱 I’m currently exploring
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
