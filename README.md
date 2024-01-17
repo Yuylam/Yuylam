@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
 <h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
 
+<div align="center">
+<img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="300"/>
+</div>
+
 📄 Know about my [experiences](https://github.com/Yuylam/Yuylam/blob/0b1e76acf3be714b506efca2301c713d1bad4ba4/Resume.pdf)  
 🌱 I’m currently exploring
 <p align="center"> 
