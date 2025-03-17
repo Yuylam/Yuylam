@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
-<h4 align="center">I'm a 1st year student in Bachelor of Computer Science (Data Engineering)</h4>
+<h4 align="center">I'm a 2st year student in Bachelor of Computer Science (Data Engineering)</h4>
 
 <div align="center">
 <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="300"/>
